@@ -1,1 +1,1 @@
-# ott-clone
+Amazon and Netflix Replica UI 
